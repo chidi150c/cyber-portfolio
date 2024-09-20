@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: bgilbert@meritamerica.org
-url: https://coachbeau.github.io/cyber-base
+title: Chidi Iwuanyanwu
+email: chidi.iwuanyanwu3@gmail.com
+url: https://chidi150c.github.io/cyber-portfolio/
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+meta_author: Chidi Iwuanyanwu
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: Chidi Iwuanyanwu
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,17 +40,17 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: https://www.linkedin.com/in/chidi-iwuanyanwu-b42838ab/
   - title: github
-    url: https://github.com/coachbeau
+    url: https://github.com/chidi150c
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:bgilbert@meritamerica.org
+  email-url: mailto:chidi.iwuanyanwu3@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
+  - line: Fort Worth, Texas
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
